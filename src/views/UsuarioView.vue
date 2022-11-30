@@ -4,10 +4,9 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-}
+  name: "UsuarioView",
+};
 </script>
 
-<style scoped>
-
+<style>
 </style>
